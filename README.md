@@ -1,1 +1,1 @@
-# segundo-Bimestre---Atividade-1---Estruturas-Condicionais
+# segundo-Bimestre---Atividade-2---Estruturas-Condicionais
